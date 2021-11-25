@@ -1,6 +1,6 @@
 # Fraud_analytics
 
-This work is belong to Harshit Tyagi's O'reilly course "Fraud analytics with Python"  https://learning.oreilly.com/live-training/courses/fraud-analytics-using-python/0636920051668/
+This work is belong to Harshit Tyagi's O'reilly course "Fraud analytics with Python"  https://learning.oreilly.com/live-training/courses/fraud-analytics-using-python/0636920051668/ Some enhancements being made to SMOTE.
 
 Aim: Identify fraudulent credit card transaction.
 The dataset contains transactions made by credit cards in September 2013 by
